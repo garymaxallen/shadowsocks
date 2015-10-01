@@ -1,3 +1,10 @@
+This is a backup of shadowsocks written by a hero fighting for freedom.
+However, I still believe the ultimate freedom for the Chinese people comes from real political change.
+I admire those heros spending a lot of time on circumventing the restrictions imposed by the evil communist party.
+But I don't think we should spend most of our time on circumventing the wall rather than enjoying the true convenience of 
+the internet.
+Maybe it is our nation's character.
+Above all, thanks to those who make their contributions.
 backup of [https://github.com/shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)  
 copy from [release 2.8.2](https://github.com/shadowsocks/shadowsocks/releases/tag/2.8.2)
 
